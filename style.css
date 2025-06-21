@@ -1,0 +1,68 @@
+.pagina {
+    background-color: #bdd4e7; 
+    color: #333; 
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 15px;
+    color: #2c3e50; 
+}
+
+.resumo {
+    font-size: 20px;
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.meusHobbies li {
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.imagem {
+    width: 250px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.imagemPaises{
+    width: 200px;
+    border-radius: 15px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.tabela {
+    width: 30%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragrafo-link a {
+    color: #1a73e8;
+    font-weight: bold;
+}
+
+.paragrafo-link a:hover {
+    color: #d32f2f; 
+    text-decoration: underline;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #155ab6;
+}
